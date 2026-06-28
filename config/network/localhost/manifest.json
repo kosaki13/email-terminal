@@ -1,0 +1,18 @@
+{
+    "serverAddress": "localhost",
+    "serverName": "阿卡姆大学 · 档案系统",
+    "iconName": "Moon-icon.png",
+    "terminalID": "AU-ARCH",
+    "year": 2016,
+    "defaultUser": {
+        "userId": "guest",
+        "password": "",
+        "userName": "访客"
+    },
+    "initialHistory": {
+        "guest": [
+            "help",
+            "mail"
+        ]
+    }
+}
