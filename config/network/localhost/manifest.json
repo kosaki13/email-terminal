@@ -1,8 +1,8 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "阿卡姆大学 · 档案系统",
+    "serverAddress": "intranet.fbi.gov",
+    "serverName": "FBI 内部通讯系统",
     "iconName": "Moon-icon.png",
-    "terminalID": "AU-ARCH",
+    "terminalID": "FBI-FO",
     "year": 2016,
     "defaultUser": {
         "userId": "guest",
