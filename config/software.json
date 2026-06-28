@@ -1,0 +1,14 @@
+{
+    "demo.exe": {
+        "help": "演示一些渲染特效",
+        "clear": true,
+        "message": [
+            "<p class=glow style='font-size: 3em'>⚠ 警告 ⚠</p>",
+            "<p class=desync>不可名状的恐怖信息</p>",
+            "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
+            "<p class=shimmer>在深海之下，在星辰之间，有些东西不应被知晓。古老的沉睡者正在苏醒，时间已经不多了。</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>诸神将在沉眠中苏醒</p>",
+            "<img src=hacker.jpg class=particle data-particules=2000>"
+        ]
+    }
+}
