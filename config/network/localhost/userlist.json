@@ -1,0 +1,17 @@
+[
+    {
+        "userId": "guest",
+        "password": "",
+        "userName": "访客"
+    },
+    {
+        "userId": "investigator",
+        "password": "arkham1928",
+        "userName": "调查员"
+    },
+    {
+        "userId": "professor",
+        "password": "necronomicon",
+        "userName": "阿米蒂奇教授"
+    }
+]
