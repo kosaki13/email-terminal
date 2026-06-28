@@ -5,13 +5,33 @@
         "userName": "访客"
     },
     {
-        "userId": "investigator",
-        "password": "arkham1928",
-        "userName": "调查员"
+        "userId": "command",
+        "password": "fbi-command",
+        "userName": "行动指挥"
     },
     {
-        "userId": "professor",
-        "password": "necronomicon",
-        "userName": "阿米蒂奇教授"
+        "userId": "agent",
+        "password": "fbi-agent",
+        "userName": "特别探员"
+    },
+    {
+        "userId": "agent.reyes",
+        "password": "reyes2016",
+        "userName": "探员·雷耶斯"
+    },
+    {
+        "userId": "agent.morrison",
+        "password": "morrison2016",
+        "userName": "探员·莫里森"
+    },
+    {
+        "userId": "agent.chen",
+        "password": "chen2016",
+        "userName": "探员·陈"
+    },
+    {
+        "userId": "agent.brooks",
+        "password": "brooks2016",
+        "userName": "探员·布鲁克斯"
     }
 ]
